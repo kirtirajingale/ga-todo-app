@@ -40,3 +40,6 @@ const TodoApp = () => {
 };
 
 export default TodoApp;
+
+
+// Continious Integration (CI) and Contineous Deployment(CD)
